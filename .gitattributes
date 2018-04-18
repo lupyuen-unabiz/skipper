@@ -6,3 +6,6 @@
 *.jpg binary
 *.data binary
 *.mem binary
+
+# Windows scripts
+*.cmd text eol=crlf
