@@ -13,7 +13,7 @@ packaging/skipper
 packaging/eskip
 .coverprofile
 .coverprofile-all
-vendor
+##vendor
 linter.log
 site/
 plugins/

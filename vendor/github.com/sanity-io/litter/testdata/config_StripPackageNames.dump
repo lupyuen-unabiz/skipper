@@ -1,0 +1,13 @@
+[]interface {}{
+  Options{
+    Compact: false,
+    StripPackageNames: false,
+    HidePrivateFields: true,
+    HomePackage: "",
+    Separator: " ",
+  },
+  &BasicStruct{
+    Public: 1,
+    private: 2,
+  },
+}
