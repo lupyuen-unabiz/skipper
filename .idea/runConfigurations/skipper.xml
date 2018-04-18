@@ -1,0 +1,13 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="skipper" type="GoApplicationRunConfiguration" factoryName="Go Application" singleton="true">
+    <module name="skipper" />
+    <working_directory value="$PROJECT_DIR$/cmd/skipper" />
+    <go_parameters value="-i" />
+    <kind value="DIRECTORY" />
+    <filePath value="$PROJECT_DIR$/" />
+    <package value="github.com/zalando/skipper" />
+    <directory value="$PROJECT_DIR$/cmd/skipper" />
+    <output_directory value="$PROJECT_DIR$/cmd/skipper" />
+    <method />
+  </configuration>
+</component>

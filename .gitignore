@@ -5,7 +5,7 @@ src/github.com/mailgun
 default.etcd
 oauth/client.json
 oauth/user.json
-.idea
+##.idea
 *.iml
 example.eskip
 Godeps/_workspace
