@@ -7,5 +7,8 @@
 *.data binary
 *.mem binary
 
+skipper binary
+eskip binary
+
 # Windows scripts
 *.cmd text eol=crlf
